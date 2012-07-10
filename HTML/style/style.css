@@ -1,0 +1,64 @@
+@charset "utf-8";
+
+body, button, input, select, textarea { font: 12px/1.5 Tahoma, Arial, sans-serif; }
+ul, ol { list-style: none; margin:0;padding:0; }
+.FL{float:left;}
+.FR{float:right;}
+.FC1{color:#c0c0c0!important;}
+.FC2{color:#c5c5c5!important;}
+.w{width:858px;}
+.doc{margin:0 auto;}
+.content{background:#d1d3d9;border:3px solid #888988;border-top:0;overflow:hidden;}
+.content .main-ctnt{width:505px;padding-left:25px;overflow:hidden;}
+.b-back,.b-cancel,.b-cnew,.b-cfexist,.ipt-search,.ipt-l,.ipt-r,.i-list,.i-radio,.rbox-t,.rbox-b,
+.i-expander,.i-del,.i-check,.i-half-check{background-image:url(../images/bg.png);display:inline-block;}
+.body-rex,.head-rex,.search-rex,.ipt-rex,.bottom-rex{background:url(../images/bgrex.png) repeat-x 0 0;}
+.b-back{width:64px;height:29px;background-position:0 0;margin:8px 8px 0 4px;float:left;}
+.b-cancel{width:56px;height:29px;background-position:0 -35px;margin:8px 0 0 9px;_margin-left:7px;}
+.b-cnew{width:85px;height:29px;background-position:0 -70px;margin:8px 8px 0 80px;}
+.b-cfexist{width:137px;height:29px;background-position:0 -105px;}
+.ipt-search{width:237px;height:33px;background-position:0 -145px;margin:6px;float:left;overflow:hidden;}
+.ipt-l,.ipt-r{width:9px;height:43px;background-position:-100px 0;}
+.ipt-r{width:10px;background-position:-120px 0;}
+.rbox-t,.rbox-b{width:479px;height:10px;background-position: 0 -195px;margin:0;padding:0;overflow:hidden;}
+.rbox-b{background-position: 0 -210px;}
+.i-list,.i-radio,.i-expander,.i-del,.i-check,.i-half-check{width:32px;height:32px;background-position:-140px -36px;}
+.i-radio,.i-del,.i-check,.i-half-check{float:left;margin: 5px 6px 0 0;}
+.i-list{margin: 6px 4px;}
+.i-radio{background-position:-140px -71px;}
+.i-expander{background-position:-180px -36px;margin: 6px 4px;}
+.i-del{background-position:-180px -71px;}
+.i-check{background-position:-220px -36px;}
+.i-half-check{background-position:-220px -71px;}
+.body-rex{background-position:0 -199px;height:852px;width:852px;}
+.head-rex{background-position:0 -2px;height:47px;width:852px;border:3px solid #888988;border-width:2px 3px 0 3px;}
+.search-rex{background-position:0 -52px;height:44px;width:320px;overflow:hidden;_position:relative;}
+.ipt-rex{background-position:0 -95px;height:43px;width:462px;}
+.bottom-rex{background-position:0 -152px;height:46px;width:320px;}
+
+.head .head-btns{width: 316px;}
+.head .head-title{color:#717880;font-size:17px;font-weight:600;width: 174px;line-height: 47px;display: inline-block;text-align: center;float:left;}
+.content .search-input{border:0;margin: 7px 3px 0 27px;*margin:5px 8px 0 22px;height: 21px;width: 195px;color:#c7c7c7;font-size:16px;}
+.content .side-nav .b-cancel{margin: 8px 4px 0 11px;float:left;_position:absolute;_top:0px;_left:250px;}
+.content .category{width:320px;height:764px;background:white;overflow: hidden;clear:left;}
+.content .category .cat-list{margin:0;padding:0;}
+.content .category li{border-bottom:1px solid #bbb;height:45px;overflow:hidden;}
+.content .category .c-item{display:inline-block;width:272px;font-size:16px;line-height: 45px;font-weight:600;color:#030303;padding-left:12px;float:left;}
+.content .cat-ipt{overflow:hidden;margin-top:12px;}
+.content .cat-ipt .cat-text{border: 0;height: 34px;width: 459px;color: #000;font-size: 16px;margin-top: 4px;background:#f9f9f9;}
+.content .rbox{overflow:hidden;width:479px;}
+.content .rbox-ctnt,.content .rbox-bottom{background:#f9f9f9;border:1px solid #c7c7c7;border-width:0 1px;}
+.content .rbox-bottom{overflow: hidden;}
+.content .medications{margin:9px 0;}
+.content  ul li{line-height:38px;border-bottom:1px solid #c7c7c7;padding-left:12px;}
+.content  ul .last{border-bottom:0;line-height:38px;height:30px;}
+.content  ul .first{height:30px;line-height:24px;}
+.content  ul .item{padding-left:36px;}
+.content .rbox{font-size:16px;}
+.content .rbox .l1{padding-left:11px;}
+.content .rbox .l2{padding-left:36px;}
+.content .rbox .l3{padding-left:60px;}
+.content .rbox .l4{padding-left:84px;}
+.content .rbox .l5{padding-left:110px;}
+.content .rbox .l6{padding-left:130px;}
+
