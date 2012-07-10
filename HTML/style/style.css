@@ -43,7 +43,7 @@ ul, ol { list-style: none; margin:0;padding:0; }
 .content .category{width:320px;height:764px;background:white;overflow: hidden;clear:left;}
 .content .category .cat-list{margin:0;padding:0;}
 .content .category li{border-bottom:1px solid #bbb;height:45px;overflow:hidden;}
-.content .category .c-item{display:inline-block;width:272px;font-size:16px;line-height: 45px;font-weight:600;color:#030303;padding-left:12px;float:left;}
+.content .category .c-item{display:inline-block;width:255px;font-size:16px;line-height: 45px;font-weight:600;color:#030303;padding-left:12px;float:left;}
 .content .cat-ipt{overflow:hidden;margin-top:12px;}
 .content .cat-ipt .cat-text{border: 0;height: 34px;width: 459px;color: #000;font-size: 16px;margin-top: 4px;background:#f9f9f9;}
 .content .rbox{overflow:hidden;width:479px;}
