@@ -6,10 +6,10 @@
 - 基本元素：标题、搜索栏、过滤器、工具条、表头、表格内容区、分页组件、记录选择
 
 #### 样例原图
-![表格原图](./images/grid.png "表格原图")
+![表格原图](./images/grid.png "表格原图"){width=1068px height=270px}
 
 #### 样例说明
-![表格图例说明](./images/grid_marked.png "表格图例说明")
+![表格图例说明](./images/grid_marked.png "表格图例说明"){width=1068px height=270px}
 
 ### Form页
 
